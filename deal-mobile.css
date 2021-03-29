@@ -1,0 +1,11 @@
+#card-quote .cards-layout{
+    flex-direction: column;
+}
+
+.card{
+    width: 40%;
+    min-width: 300px;
+    height: 20%;
+    min-height: 350px;
+    margin: 12px;
+}
